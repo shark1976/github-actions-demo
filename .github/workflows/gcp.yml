@@ -1,4 +1,4 @@
-name: GCP Python 3.7
+name: GCP Python 3.9.2
 on: [push]
 jobs:
   build:
